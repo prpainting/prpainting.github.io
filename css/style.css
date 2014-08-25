@@ -99,14 +99,14 @@ footer {
 @media (max-width: 767px) {
 
 	.jumbotron p{
-		font-size: 15px;
+		font-size: 20px;
 	}
 
 	.portfolio hr {
-		width: 200px;
+		width: 225px;
 	}
 
 	.services hr {
-		width: 200px;
+		width: 225px;
 	}
 }
