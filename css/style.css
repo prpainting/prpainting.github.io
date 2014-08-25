@@ -95,3 +95,18 @@ footer {
 		padding-bottom: 20px;
 	}
 }
+
+@media (max-width: 767px) {
+
+	.jumbotron p{
+		font-size: 10px;
+	}
+
+	.portfolio hr {
+		width: 150px;
+	}
+
+	.services hr {
+		width: 150px;
+	}
+}
